@@ -3,7 +3,7 @@ Extremely Simple AR-Code Generators for "ISZ-2016".
 
 # Features:
 - Insanely Fast and Efficient Generators. ***(Speed ~2gb every Minute)***.
-
+- Double-Click & Wait, ID-Generator takes a bit to get Spinning.
 
 
 

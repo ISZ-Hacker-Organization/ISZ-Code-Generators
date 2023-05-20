@@ -6,7 +6,8 @@ Extremely Simple AR-Code Generators for "ISZ-2016".
 - Double-Click & Wait, ID-Generator takes a bit to get Spinning.
 
 
-
+# Download:
+- [Download Page](https://github.com/ISZ-Hacker-Organization/ISZ-Code-Generators/releases/tag/1.0-release-1).
 
 
 
